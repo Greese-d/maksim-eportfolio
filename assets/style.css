@@ -209,6 +209,10 @@ figcaption {
   object-fit: cover;
 }
 
+.gallery figure img.crop-lower {
+  object-position: center 65%;
+}
+
 .qa-block {
   padding-bottom: 28px;
   margin-bottom: 28px;
